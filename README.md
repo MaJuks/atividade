@@ -1,5 +1,7 @@
 # 🚀 Como rodar um projeto React já criado (em computador ainda não configurado)
 
+
+- Vamos começar baixando os arquivos ou dando git clone (link do repositorio)
 ---
 
 ## 1. Instalar o Node.js

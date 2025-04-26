@@ -30,7 +30,7 @@ npm install
 - Isso irá instalar todas as bibliotecas necessárias (lendo o package.json).
 
 ## Rodar o projeto
--Após instalar as dependências, rode:
+- Após instalar as dependências, rode:
  ```
 npm run dev
  ```

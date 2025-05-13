@@ -11,7 +11,7 @@ function App() {
 
     <BrowserRouter>
       <Routes>
-        <Route path='/' element={<Main/>}/>
+        <Route path='/estilizacao-react' element={<Main/>}/>
         <Route path='/styled' element={<Styled/>}/>
         <Route path='/tailwind' element={<Tailwind/>}/>
       </Routes>
